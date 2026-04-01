@@ -1,0 +1,11 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore any node_modules if you test the script locally inside this repo
+node_modules/
